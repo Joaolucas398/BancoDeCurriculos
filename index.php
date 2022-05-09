@@ -29,21 +29,10 @@
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="index.php?pg=formaluno">Cadastra</a>
-         <!-- <a class="dropdown-item" href="index.php?pg=listaraluno">Listar</a>
-          <a class="dropdown-item" href="index.php?pg=formpesquisaaluno">Pesquisar por Aluno</a>-->
         
       </li>
 
 
-       <!-- <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Escola
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="index.php?pg=formescola">Cadastra</a>
-          <a class="dropdown-item" href="index.php?pg=listarescola">Listar</a>
-        
-      </li> -->
 
 
             <li class="nav-item dropdown">
@@ -52,8 +41,7 @@
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="index.php?pg=formempresa">Cadastra</a>
-          <!--<a class="dropdown-item" href="index.php?pg=listarempresa">Listar</a>
-          <a class="dropdown-item" href="index.php?pg=formpesquisaempresa">Pesquisar por Empresa</a>-->
+         
         
       </li>
 
@@ -66,28 +54,6 @@
           
         
       </li>
-
-   
-
-       <!--<li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Usuario
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="index.php?pg=formusuario">Cadastra</a>
-          <a class="dropdown-item" href="index.php?pg=listarusuario">Listar</a>
-        
-      </li> -->
-
-      <!--<li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Interesses
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="index.php?pg=forminteresses">Cadastra</a>
-          <a class="dropdown-item" href="#">Listar</a>
-        
-      </li> -->
 
     </ul>
    
